@@ -1,2 +1,5 @@
 # SMA-Q2-Firmware-2
-SMA-Q2 Firmware 2 based on the Sandeep Mistry Arduino Core or its Implementation in Aaron Christophel's portable Arduino IDE as uploaded here: https://www.youtube.com/redirect?redir_token=KBI_47xkebyV8zz_y1ZDXYYTUBF8MTU2OTA3MDI3N0AxNTY4OTgzODc3&amp;event=video_description&amp;v=3gjmEdEDJ5A&amp;q=http%3A%2F%2Fatcnetz.de%2Fdownloads%2FD6Arduino.rar
+SMA-Q2 Firmware based on the Sandeep Mistry Arduino Core or its implementation in Aaron Christophel's portable Arduino IDE as explained here: https://www.youtube.com/watch?v=3gjmEdEDJ5A&t=751s
+
+The repository contains the sketch with all drivers that are required, as well as the boards.txt which is supposed to replace the old one. The SMA-Q2 variant is also included and can be added easily.
+
